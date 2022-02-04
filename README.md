@@ -1,6 +1,6 @@
-# New Project
+# Patterns React App
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ Bootstrapped with Create Snowpack App (CSA). See [this template here](https://github.com/cyyeh/create-react-app-with-snowpack) for more information
 
 ## Available Scripts
 
@@ -17,10 +17,3 @@ You will also see any lint errors in the console.
 Builds a static copy of your site to the `build/` folder.
 Your app is ready to be deployed!
 
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
-
-### Learn More Here
-
-> https://www.snowpack.dev/tutorials/react
